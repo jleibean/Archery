@@ -1,0 +1,32 @@
+/* colors
+green - #blc3b8 
+grey - e1dbe0
+red - b22222*/
+
+body{
+    background-image: url("../images/background.jpg");
+    background-size: 100%;
+}
+footer .container-fluid{
+    text-align: center;
+    padding: 3% 8%;
+}
+h1{
+    font-size: 4rem;
+}
+.navbar .container-fluid{
+    padding: 2% 2%;
+}
+.main{
+    height: 450px;
+}
+
+.color-background {
+    background-color: #b1c3b8;
+}
+.white-background{
+    background-color: #e1dbe0;
+}
+.container-fluid{
+    padding: 5% 8%;
+}
